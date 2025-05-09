@@ -16,7 +16,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="6/22/2023 12:15 PM" latitude="" customnodeid="" title="" description="Site Plan | Types" info="" source="" heading="0" longitude="" tags="SMT|NEIGH" copyright="" nodeid="node27" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Site Plan | Types" info="" source="" heading="0" longitude="" tags="SMT|NEIGH" copyright="" nodeid="node27" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -264,7 +264,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="6/22/2023 12:15 PM" latitude="" customnodeid="" title="" description="Site Plan | Numbering" info="" source="" heading="0" longitude="" tags="SMN|NEIGH" copyright="" nodeid="node26" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Site Plan | Numbering" info="" source="" heading="0" longitude="" tags="SMN|NEIGH" copyright="" nodeid="node26" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -510,7 +510,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 7:57 PM" latitude="" customnodeid="" title="EXT_1A_a" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node28" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="EXT_1A_a" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node28" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -536,7 +536,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 21:55:01" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node29" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node29" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -562,7 +562,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 22:02:53" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node30" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node30" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -588,7 +588,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 22:03:35" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node31" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1A | Exterior" info="4 Bedrooms · 3.5 Baths · 1,763 SF" source="" heading="0" longitude="" tags="1A|EXT_1A|EXTERIOR" copyright="" nodeid="node31" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -614,7 +614,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="1_T1" description="Type 1A | 1st Floor" info="" source="" heading="0" longitude="" tags="11F|1A|FLOORPLANS" copyright="" nodeid="node44" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="1_T1" description="Type 1A | 1st Floor" info="" source="" heading="0" longitude="" tags="11F|1A|FLOORPLANS" copyright="" nodeid="node44" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -645,7 +645,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 1A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|12F|1A" copyright="" nodeid="node45" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|12F|1A" copyright="" nodeid="node45" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -678,7 +678,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 1A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|13F|1A" copyright="" nodeid="node46" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|13F|1A" copyright="" nodeid="node46" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -708,7 +708,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 10:13 PM" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node32" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node32" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -734,7 +734,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:27 PM" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node33" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node33" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -760,7 +760,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:28 PM" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node34" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node34" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -786,7 +786,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:04 PM" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node35" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | Exterior" info="3 Bedrooms · 2.5 Baths · 1,773 SF" source="" heading="0" longitude="" tags="2A|EXT_2A|EXTERIOR" copyright="" nodeid="node35" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -812,7 +812,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2A | 1st Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|21F|2A" copyright="" nodeid="node47" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | 1st Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|21F|2A" copyright="" nodeid="node47" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -836,7 +836,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|22F|2A" copyright="" nodeid="node48" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|22F|2A" copyright="" nodeid="node48" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -860,7 +860,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|23F|2A" copyright="" nodeid="node49" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|23F|2A" copyright="" nodeid="node49" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -884,7 +884,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 22:15:14" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node36" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node36" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -911,7 +911,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 22:15:52" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node37" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node37" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -938,7 +938,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 6:10 PM" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node38" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node38" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -965,7 +965,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 22:16:36" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node39" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | Exterior" info="4 Bedrooms · 3.5 Baths · 2,232 SF" source="" heading="0" longitude="" tags="3A|EXT_3A|EXTERIOR" copyright="" nodeid="node39" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -991,7 +991,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A | 1st Floor" info="" source="" heading="0" longitude="" tags="31F|FLOORPLANS|3A" copyright="" nodeid="node23" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | 1st Floor" info="" source="" heading="0" longitude="" tags="31F|FLOORPLANS|3A" copyright="" nodeid="node23" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1022,7 +1022,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A | 2nd Floor" info="" source="" heading="0" longitude="" tags="32F|FLOORPLANS|3A" copyright="" nodeid="node24" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | 2nd Floor" info="" source="" heading="0" longitude="" tags="32F|FLOORPLANS|3A" copyright="" nodeid="node24" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1053,7 +1053,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A | 3rd Floor" info="" source="" heading="0" longitude="" tags="33F|FLOORPLANS|3A" copyright="" nodeid="node25" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A | 3rd Floor" info="" source="" heading="0" longitude="" tags="33F|FLOORPLANS|3A" copyright="" nodeid="node25" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1086,7 +1086,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 9:51 PM" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node40" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node40" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1112,7 +1112,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 9:51 PM" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node41" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node41" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1138,7 +1138,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 9:52 PM" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node42" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node42" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1164,7 +1164,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 9:53 PM" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node43" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | Exterior" info="4 Bedrooms · 3 Baths · 2,375 SF" source="" heading="0" longitude="" tags="4A|EXT_4A|EXTERIOR" copyright="" nodeid="node43" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1190,7 +1190,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 4A | 1st Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|41F|4A" copyright="" nodeid="node53" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | 1st Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|41F|4A" copyright="" nodeid="node53" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1214,7 +1214,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 4A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|42F|4A" copyright="" nodeid="node54" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | 2nd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|42F|4A" copyright="" nodeid="node54" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -1238,7 +1238,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 4A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|43F|4A" copyright="" nodeid="node55" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 4A | 3rd Floor" info="" source="" heading="0" longitude="" tags="FLOORPLANS|43F|4A" copyright="" nodeid="node55" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -3938,7 +3938,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:29 PM" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node131" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node131" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -3964,7 +3964,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:35 PM" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node132" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node132" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -3990,7 +3990,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 6:10 PM" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node133" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node133" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4016,7 +4016,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:33 PM" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node134" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3C|EXT_3C|EXTERIOR" copyright="" nodeid="node134" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4042,7 +4042,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:29 PM" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node135" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node135" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4068,7 +4068,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:35 PM" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node136" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node136" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4094,7 +4094,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 6:10 PM" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node137" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node137" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4120,7 +4120,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:33 PM" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node138" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | Exterior" info="4 Bedrooms · 3.5 Baths · 2,152 SF" source="" heading="0" longitude="" tags="3Ap|EXT_3Ap|EXTERIOR" copyright="" nodeid="node138" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4146,7 +4146,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 7:57 PM" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node139" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node139" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4172,7 +4172,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:08 21:55:01" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node140" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node140" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4198,7 +4198,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/9/2025 12:29 PM" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node141" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node141" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4224,7 +4224,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/9/2025 12:29 PM" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node142" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | Exterior" info="4 Bedrooms · 3.5 Baths · 1,760 SF" source="" heading="0" longitude="" tags="1B|EXT_1B|EXTERIOR" copyright="" nodeid="node142" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4250,7 +4250,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="2025:04:14 21:25:48" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node143" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node143" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4276,7 +4276,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:27 PM" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node144" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node144" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4302,7 +4302,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:28 PM" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node145" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node145" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4328,7 +4328,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:04 PM" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node146" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2C|EXT_2C|EXTERIOR" copyright="" nodeid="node146" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4891,7 +4891,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 10:13 PM" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node167" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node167" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4917,7 +4917,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:27 PM" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node168" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node168" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4943,7 +4943,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 8:28 PM" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node169" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node169" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -4969,7 +4969,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="4/8/2025 11:04 PM" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node170" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | Exterior" info="3 Bedrooms · 2.5 Baths · 1,737 SF" source="" heading="0" longitude="" tags="2B|EXTERIOR|EXT_2B" copyright="" nodeid="node170" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5061,7 +5061,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 1B | 1st Floor" info="" source="" heading="0" longitude="" tags="1B|1b1F|FLOORPLANS" copyright="" nodeid="node173" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | 1st Floor" info="" source="" heading="0" longitude="" tags="1B|1b1F|FLOORPLANS" copyright="" nodeid="node173" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5085,7 +5085,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 1B | 2nd Floor" info="" source="" heading="0" longitude="" tags="1B|1b2F|FLOORPLANS" copyright="" nodeid="node174" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | 2nd Floor" info="" source="" heading="0" longitude="" tags="1B|1b2F|FLOORPLANS" copyright="" nodeid="node174" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5109,7 +5109,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 1B | 3rd Floor" info="" source="" heading="0" longitude="" tags="1B|1b3F|FLOORPLANS" copyright="" nodeid="node175" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 1B | 3rd Floor" info="" source="" heading="0" longitude="" tags="1B|1b3F|FLOORPLANS" copyright="" nodeid="node175" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5133,7 +5133,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2B | 1st Floor" info="" source="" heading="0" longitude="" tags="2B|2b1F|FLOORPLANS" copyright="" nodeid="node185" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | 1st Floor" info="" source="" heading="0" longitude="" tags="2B|2b1F|FLOORPLANS" copyright="" nodeid="node185" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5157,7 +5157,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2B | 2nd Floor" info="" source="" heading="0" longitude="" tags="2B|2b2F|FLOORPLANS" copyright="" nodeid="node186" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | 2nd Floor" info="" source="" heading="0" longitude="" tags="2B|2b2F|FLOORPLANS" copyright="" nodeid="node186" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5181,7 +5181,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2B | 3rd Floor" info="" source="" heading="0" longitude="" tags="2B|2b3F|FLOORPLANS" copyright="" nodeid="node187" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2B | 3rd Floor" info="" source="" heading="0" longitude="" tags="2B|2b3F|FLOORPLANS" copyright="" nodeid="node187" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5205,7 +5205,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2C | 1st Floor" info="" source="" heading="0" longitude="" tags="2C|2c1F|FLOORPLANS" copyright="" nodeid="node188" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | 1st Floor" info="" source="" heading="0" longitude="" tags="2C|2c1F|FLOORPLANS" copyright="" nodeid="node188" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5229,7 +5229,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2C | 2nd Floor" info="" source="" heading="0" longitude="" tags="2C|2c2F|FLOORPLANS" copyright="" nodeid="node189" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | 2nd Floor" info="" source="" heading="0" longitude="" tags="2C|2c2F|FLOORPLANS" copyright="" nodeid="node189" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5253,7 +5253,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 2C | 3rd Floor" info="" source="" heading="0" longitude="" tags="2C|2c3F|FLOORPLANS" copyright="" nodeid="node190" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 2C | 3rd Floor" info="" source="" heading="0" longitude="" tags="2C|2c3F|FLOORPLANS" copyright="" nodeid="node190" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5277,7 +5277,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3C | 1st Floor" info="" source="" heading="0" longitude="" tags="3C|3c1F|FLOORPLANS" copyright="" nodeid="node179" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | 1st Floor" info="" source="" heading="0" longitude="" tags="3C|3c1F|FLOORPLANS" copyright="" nodeid="node179" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5301,7 +5301,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3C | 2nd Floor" info="" source="" heading="0" longitude="" tags="3C|3c2F|FLOORPLANS" copyright="" nodeid="node180" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | 2nd Floor" info="" source="" heading="0" longitude="" tags="3C|3c2F|FLOORPLANS" copyright="" nodeid="node180" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5325,7 +5325,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3C | 3rd Floor" info="" source="" heading="0" longitude="" tags="3C|3c3F|FLOORPLANS" copyright="" nodeid="node181" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3C | 3rd Floor" info="" source="" heading="0" longitude="" tags="3C|3c3F|FLOORPLANS" copyright="" nodeid="node181" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5349,7 +5349,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A+ | 1st Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p1F|FLOORPLANS" copyright="" nodeid="node182" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | 1st Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p1F|FLOORPLANS" copyright="" nodeid="node182" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5373,7 +5373,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A+ | 2nd Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p2F|FLOORPLANS" copyright="" nodeid="node183" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | 2nd Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p2F|FLOORPLANS" copyright="" nodeid="node183" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
@@ -5397,7 +5397,7 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max fovfisheye="360" fovstereographic="270" fov="120" pan="360" scaletofit="1" tilt="90"/>
     </view>
-    <userdata datetime="8/16/2023 6:57 AM" latitude="" customnodeid="" title="" description="Type 3A+ | 3rd Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p3F|FLOORPLANS" copyright="" nodeid="node184" author="" comment=""/>
+    <userdata datetime="" latitude="" customnodeid="" title="" description="Type 3A+ | 3rd Floor" info="" source="" heading="0" longitude="" tags="3Ap|3p3F|FLOORPLANS" copyright="" nodeid="node184" author="" comment=""/>
     <hotspots wordwrap="1" height="0" width="170">
       <label textcolor="0x000000" bordercolor="0x000000" enabled="1" wordwrap="1" height="0" backgroundalpha="0.607843" backgroundcolor="0xffffff" width="170" borderalpha="1" borderradius="5" textalpha="1" border="0" background="1"/>
       <polystyle bordercolor="0x000000" handcursor="1" mode="2" backgroundalpha="0.313725" backgroundcolor="0xffffff" borderalpha="1"/>
