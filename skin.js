@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.11/18043
-// Filename: Carson10a.ggsk
-// Generated 2025-06-14T15:05:16
+// Filename: Carson10b.ggsk
+// Generated 2025-06-14T15:39:41
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -10734,7 +10734,7 @@ function pano2vrSkin(player,base) {
 		els=me._config_button__img=document.createElement('img');
 		els.className='ggskin ggskin_config_button';
 		hs='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QHTaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1LjYuMCI+CiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMj'+
-			'UtMDYtMTRUMTU6MDU6MTQrMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI1LTA2LTE0VDE1OjA1OjE0KzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
+			'UtMDYtMTRUMTU6Mzk6MzkrMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI1LTA2LTE0VDE1OjM5OjM5KzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
 			'CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4'+
 			'iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASigUetABj3oo7UlACiikooAXtSUUUAf/2Q==';
 		els.setAttribute('src',hs);
@@ -22717,196 +22717,6 @@ function pano2vrSkin(player,base) {
 		}
 		me._l_tour.appendChild(me._map_text0);
 		me._plus_content.appendChild(me._l_tour);
-		el=me._contact_new=document.createElement('div');
-		el.ggId="CONTACT NEW";
-		el.ggDx=0;
-		el.ggDy=0;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_container ";
-		el.ggType='container';
-		hs ='';
-		hs+='height : 100%;';
-		hs+='left : -10000px;';
-		hs+='position : absolute;';
-		hs+='top : -10000px;';
-		hs+='visibility : inherit;';
-		hs+='width : 100%;';
-		hs+='pointer-events:none;';
-		el.setAttribute('style',hs);
-		el.style[domTransform + 'Origin']='50% 50%';
-		me._contact_new.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return player.getCurrentNode();
-		}
-		me._contact_new.logicBlock_visible = function() {
-			var newLogicStateVisible;
-			if (
-				((me.ggUserdata.tags.indexOf("Scontact") == -1))
-			)
-			{
-				newLogicStateVisible = 0;
-			}
-			else {
-				newLogicStateVisible = -1;
-			}
-			if (me._contact_new.ggCurrentLogicStateVisible != newLogicStateVisible) {
-				me._contact_new.ggCurrentLogicStateVisible = newLogicStateVisible;
-				me._contact_new.style[domTransition]='';
-				if (me._contact_new.ggCurrentLogicStateVisible == 0) {
-					me._contact_new.style.visibility="hidden";
-					me._contact_new.ggVisible=false;
-				}
-				else {
-					me._contact_new.style.visibility=(Number(me._contact_new.style.opacity)>0||!me._contact_new.style.opacity)?'inherit':'hidden';
-					me._contact_new.ggVisible=true;
-				}
-			}
-		}
-		me._contact_new.ggUpdatePosition=function (useTransition) {
-			if (useTransition==='undefined') {
-				useTransition = false;
-			}
-			if (!useTransition) {
-				this.style[domTransition]='none';
-			}
-			if (this.parentNode) {
-				var pw=this.parentNode.clientWidth;
-				var w=this.offsetWidth;
-					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
-				var ph=this.parentNode.clientHeight;
-				var h=this.offsetHeight;
-					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
-			}
-		}
-		el=me._popup_containern=document.createElement('div');
-		el.ggId="popup_containerN";
-		el.ggDx=0;
-		el.ggDy=5;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1.5,sy:1.5 };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_container ";
-		el.ggType='container';
-		hs ='';
-		hs+='height : 400px;';
-		hs+='left : -10000px;';
-		hs+='position : absolute;';
-		hs+='top : -10000px;';
-		hs+='visibility : inherit;';
-		hs+='width : 699px;';
-		hs+='pointer-events:none;';
-		el.setAttribute('style',hs);
-		el.style[domTransform + 'Origin']='50% 50%';
-		el.style[domTransform]=parameterToTransform(el.ggParameter);
-		me._popup_containern.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return player.getCurrentNode();
-		}
-		me._popup_containern.ggUpdatePosition=function (useTransition) {
-			if (useTransition==='undefined') {
-				useTransition = false;
-			}
-			if (!useTransition) {
-				this.style[domTransition]='none';
-			}
-			if (this.parentNode) {
-				var pw=this.parentNode.clientWidth;
-				var w=this.offsetWidth;
-					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
-				var ph=this.parentNode.clientHeight;
-				var h=this.offsetHeight;
-					this.style.top=((this.ggDy * ph)/100.0 + ph/2 - h/2) + 'px';
-			}
-		}
-		el=me._iframe_holdern=document.createElement('div');
-		els=me._iframe_holdern__text=document.createElement('div');
-		el.className='ggskin ggskin_textdiv';
-		el.ggTextDiv=els;
-		el.ggId="iframe_holderN";
-		el.ggDx=0;
-		el.ggDy=0;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_text ";
-		el.ggType='text';
-		hs ='';
-		hs+='height : 400px;';
-		hs+='left : -10000px;';
-		hs+='opacity : 0;';
-		hs+='position : absolute;';
-		hs+='top : -10000px;';
-		hs+='visibility : hidden;';
-		hs+='width : 699px;';
-		hs+='pointer-events:none;';
-		el.setAttribute('style',hs);
-		el.style[domTransform + 'Origin']='50% 50%';
-		hs ='position:absolute;';
-		hs += 'box-sizing: border-box;';
-		hs+='cursor: default;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+='pointer-events: none;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: rgba(207,207,207,1);';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		hs+='overflow-y: auto;';
-		els.setAttribute('style',hs);
-		els.innerHTML="undefined";
-		el.appendChild(els);
-		me._iframe_holdern.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return player.getCurrentNode();
-		}
-		me._iframe_holdern.ggUpdatePosition=function (useTransition) {
-			if (useTransition==='undefined') {
-				useTransition = false;
-			}
-			if (!useTransition) {
-				this.style[domTransition]='none';
-			}
-			if (this.parentNode) {
-				var pw=this.parentNode.clientWidth;
-				var w=this.offsetWidth + 0;
-					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
-				var ph=this.parentNode.clientHeight;
-				var h=this.offsetHeight;
-					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
-			}
-			this.style[domTransition]='left 0';
-			this.ggTextDiv.style.left=((697-this.ggTextDiv.offsetWidth)/2) + 'px';
-		}
-		me._popup_containern.appendChild(me._iframe_holdern);
-		me._contact_new.appendChild(me._popup_containern);
-		me._plus_content.appendChild(me._contact_new);
 		el=me._links_tour=document.createElement('div');
 		el.ggPermeable=false;
 		el.ggId="Links Tour";
@@ -23194,6 +23004,196 @@ function pano2vrSkin(player,base) {
 		me._links_tour.appendChild(me._location_tour);
 		me._plus_content.appendChild(me._links_tour);
 		me._all_content.appendChild(me._plus_content);
+		el=me._contact_new=document.createElement('div');
+		el.ggId="CONTACT NEW";
+		el.ggDx=0;
+		el.ggDy=0;
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_container ";
+		el.ggType='container';
+		hs ='';
+		hs+='height : 100%;';
+		hs+='left : -10000px;';
+		hs+='position : absolute;';
+		hs+='top : -10000px;';
+		hs+='visibility : inherit;';
+		hs+='width : 100%;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style[domTransform + 'Origin']='50% 50%';
+		me._contact_new.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return player.getCurrentNode();
+		}
+		me._contact_new.logicBlock_visible = function() {
+			var newLogicStateVisible;
+			if (
+				((me.ggUserdata.tags.indexOf("Scontact") == -1))
+			)
+			{
+				newLogicStateVisible = 0;
+			}
+			else {
+				newLogicStateVisible = -1;
+			}
+			if (me._contact_new.ggCurrentLogicStateVisible != newLogicStateVisible) {
+				me._contact_new.ggCurrentLogicStateVisible = newLogicStateVisible;
+				me._contact_new.style[domTransition]='';
+				if (me._contact_new.ggCurrentLogicStateVisible == 0) {
+					me._contact_new.style.visibility="hidden";
+					me._contact_new.ggVisible=false;
+				}
+				else {
+					me._contact_new.style.visibility=(Number(me._contact_new.style.opacity)>0||!me._contact_new.style.opacity)?'inherit':'hidden';
+					me._contact_new.ggVisible=true;
+				}
+			}
+		}
+		me._contact_new.ggUpdatePosition=function (useTransition) {
+			if (useTransition==='undefined') {
+				useTransition = false;
+			}
+			if (!useTransition) {
+				this.style[domTransition]='none';
+			}
+			if (this.parentNode) {
+				var pw=this.parentNode.clientWidth;
+				var w=this.offsetWidth;
+					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
+				var ph=this.parentNode.clientHeight;
+				var h=this.offsetHeight;
+					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
+			}
+		}
+		el=me._popup_containern=document.createElement('div');
+		el.ggId="popup_containerN";
+		el.ggDx=0;
+		el.ggDy=5;
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1.5,sy:1.5 };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_container ";
+		el.ggType='container';
+		hs ='';
+		hs+='height : 400px;';
+		hs+='left : -10000px;';
+		hs+='position : absolute;';
+		hs+='top : -10000px;';
+		hs+='visibility : inherit;';
+		hs+='width : 699px;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style[domTransform + 'Origin']='50% 50%';
+		el.style[domTransform]=parameterToTransform(el.ggParameter);
+		me._popup_containern.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return player.getCurrentNode();
+		}
+		me._popup_containern.ggUpdatePosition=function (useTransition) {
+			if (useTransition==='undefined') {
+				useTransition = false;
+			}
+			if (!useTransition) {
+				this.style[domTransition]='none';
+			}
+			if (this.parentNode) {
+				var pw=this.parentNode.clientWidth;
+				var w=this.offsetWidth;
+					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
+				var ph=this.parentNode.clientHeight;
+				var h=this.offsetHeight;
+					this.style.top=((this.ggDy * ph)/100.0 + ph/2 - h/2) + 'px';
+			}
+		}
+		el=me._iframe_holdern=document.createElement('div');
+		els=me._iframe_holdern__text=document.createElement('div');
+		el.className='ggskin ggskin_textdiv';
+		el.ggTextDiv=els;
+		el.ggId="iframe_holderN";
+		el.ggDx=0;
+		el.ggDy=0;
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_text ";
+		el.ggType='text';
+		hs ='';
+		hs+='height : 400px;';
+		hs+='left : -10000px;';
+		hs+='opacity : 0;';
+		hs+='position : absolute;';
+		hs+='top : -10000px;';
+		hs+='visibility : hidden;';
+		hs+='width : 699px;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style[domTransform + 'Origin']='50% 50%';
+		hs ='position:absolute;';
+		hs += 'box-sizing: border-box;';
+		hs+='cursor: default;';
+		hs+='left: 0px;';
+		hs+='top:  0px;';
+		hs+='width: auto;';
+		hs+='height: auto;';
+		hs+='pointer-events: none;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: rgba(207,207,207,1);';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		hs+='overflow-y: auto;';
+		els.setAttribute('style',hs);
+		els.innerHTML="undefined";
+		el.appendChild(els);
+		me._iframe_holdern.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return player.getCurrentNode();
+		}
+		me._iframe_holdern.ggUpdatePosition=function (useTransition) {
+			if (useTransition==='undefined') {
+				useTransition = false;
+			}
+			if (!useTransition) {
+				this.style[domTransition]='none';
+			}
+			if (this.parentNode) {
+				var pw=this.parentNode.clientWidth;
+				var w=this.offsetWidth + 0;
+					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
+				var ph=this.parentNode.clientHeight;
+				var h=this.offsetHeight;
+					this.style.top=(this.ggDy + ph/2 - h/2) + 'px';
+			}
+			this.style[domTransition]='left 0';
+			this.ggTextDiv.style.left=((697-this.ggTextDiv.offsetWidth)/2) + 'px';
+		}
+		me._popup_containern.appendChild(me._iframe_holdern);
+		me._contact_new.appendChild(me._popup_containern);
+		me._all_content.appendChild(me._contact_new);
 		el=me._mobdocument=document.createElement('div');
 		el.ggId="MOB-DOCUMENT";
 		el.ggDx=0;
@@ -27658,25 +27658,19 @@ function pano2vrSkin(player,base) {
 			}
 		}
 		me._contact.onclick=function (e) {
-			var flag=me._iframe_holder.ggOpacitiyActive;
-			if (player.transitionsDisabled) {
-				me._iframe_holder.style[domTransition]='none';
-			} else {
-				me._iframe_holder.style[domTransition]='all 0ms ease-out 0ms';
-			}
-			if (flag) {
-				me._iframe_holder.style.opacity='0';
-				me._iframe_holder.style.visibility='hidden';
-			} else {
-				me._iframe_holder.style.opacity='1';
-				me._iframe_holder.style.visibility=me._iframe_holder.ggVisible?'inherit':'hidden';
-			}
-			me._iframe_holder.ggOpacitiyActive=!flag;
+			me._iframe_holder.ggVisible = !me._iframe_holder.ggVisible;
+			var flag=me._iframe_holder.ggVisible;
+			me._iframe_holder.style[domTransition]='none';
+			me._iframe_holder.style.visibility=((flag)&&(Number(me._iframe_holder.style.opacity)>0||!me._iframe_holder.style.opacity))?'inherit':'hidden';
+			me._popclose.ggVisible = !me._popclose.ggVisible;
+			var flag=me._popclose.ggVisible;
+			me._popclose.style[domTransition]='none';
+			me._popclose.style.visibility=((flag)&&(Number(me._popclose.style.opacity)>0||!me._popclose.style.opacity))?'inherit':'hidden';
 			var flag=me._key_pad.ggOpacitiyActive;
 			if (player.transitionsDisabled) {
 				me._key_pad.style[domTransition]='none';
 			} else {
-				me._key_pad.style[domTransition]='all 0ms ease-out 0ms';
+				me._key_pad.style[domTransition]='all 500ms ease-out 0ms';
 			}
 			if (flag) {
 				me._key_pad.style.opacity='1';
@@ -27702,20 +27696,6 @@ function pano2vrSkin(player,base) {
 				me._iframe_holder.ggUpdatePosition();
 			}
 			me._iframe_holder.ggTextDiv.scrollTop = 0;
-			var flag=me._popclose.ggOpacitiyActive;
-			if (player.transitionsDisabled) {
-				me._popclose.style[domTransition]='none';
-			} else {
-				me._popclose.style[domTransition]='all 0ms ease-out 0ms';
-			}
-			if (flag) {
-				me._popclose.style.opacity='0';
-				me._popclose.style.visibility='hidden';
-			} else {
-				me._popclose.style.opacity='1';
-				me._popclose.style.visibility=me._popclose.ggVisible?'inherit':'hidden';
-			}
-			me._popclose.ggOpacitiyActive=!flag;
 			document.querySelector('#iframe_holder iframe').contentWindow.postMessage('resetContactForm','*');
 		}
 		me._contact.onmouseover=function (e) {
@@ -30149,13 +30129,12 @@ function pano2vrSkin(player,base) {
 		el.ggDx=0;
 		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=true;
+		el.ggVisible=false;
 		el.className="ggskin ggskin_text ";
 		el.ggType='text';
 		hs ='';
 		hs+='height : 400px;';
 		hs+='left : -10000px;';
-		hs+='opacity : 0;';
 		hs+='position : absolute;';
 		hs+='top : -10000px;';
 		hs+='visibility : hidden;';
@@ -30238,13 +30217,12 @@ function pano2vrSkin(player,base) {
 		el.appendChild(elo);
 		el.ggId="PopClose";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=true;
+		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
 		el.ggType='svg';
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 32px;';
-		hs+='opacity : 0;';
 		hs+='position : absolute;';
 		hs+='right : -7px;';
 		hs+='top : 2px;';
@@ -38560,8 +38538,8 @@ function pano2vrSkin(player,base) {
 	me._contact0.logicBlock_visible();
 	me._location.logicBlock_visible();
 	me._l_tour.logicBlock_visible();
-	me._contact_new.logicBlock_visible();
 	me._location_tour.logicBlock_backgroundcolor();
+	me._contact_new.logicBlock_visible();
 	me._mobdocument.logicBlock_visible();
 	me._document.logicBlock_visible();
 	me._r14.logicBlock_backgroundcolor();
@@ -38637,7 +38615,7 @@ function pano2vrSkin(player,base) {
 	player.addListener('tilesrequested', function(args) { me._loading_multires.logicBlock_visible(); });
 	player.addListener('fullscreenenter', function(args) { me._fullscreen.logicBlock_alpha();me._fullscreen_off.logicBlock_alpha();me._tt_fullscreen.logicBlock_text(); });
 	player.addListener('fullscreenexit', function(args) { me._fullscreen.logicBlock_alpha();me._fullscreen_off.logicBlock_alpha();me._tt_fullscreen.logicBlock_text(); });
-	player.addListener('changenode', function(args) { me._show_controller_button.logicBlock_position();me._controller.logicBlock_position();me._controller.logicBlock_visible();me._controller.logicBlock_alpha();me._controller_slider.logicBlock_position();me._controller_slider.logicBlock_visible();me._controller_slider.logicBlock_alpha();me._enter_vr.logicBlock_position();me._fullscreen_buttons.logicBlock_position();me._fullscreen_buttons.logicBlock_visible();me._gyro.logicBlock_position();me._gyro.logicBlock_visible();me._gyro_on.logicBlock_alpha();me._gyro_off.logicBlock_alpha();me._tt_gyro.logicBlock_text();me._projection_buttons.logicBlock_position();me._projection_buttons.logicBlock_visible();me._info0.logicBlock_position();me._info0.logicBlock_visible();me._autorotate_buttons.logicBlock_position();me._autorotate_buttons.logicBlock_visible();me._autorotate_start.logicBlock_alpha();me._autorotate_stop.logicBlock_alpha();me._tt_rotate.logicBlock_text();me._zoomout.logicBlock_visible();me._zoomin.logicBlock_visible();me._thumbnail.logicBlock_position();me._thumbnail.logicBlock_visible();me._tt_thumbnail_open.logicBlock_text();me._breakdown.logicBlock_visible();me._thumbnail_menu.logicBlock_position();me._thumbnail_menu.logicBlock_visible();me._thumbnail_menu.logicBlock_alpha();me._thumbnail_menu_mobile.logicBlock_position();me._thumbnail_menu_mobile.logicBlock_visible();me._thumbnail_menu_mobile.logicBlock_alpha();me._web_page.logicBlock_visible();me._userdata.logicBlock_visible();me._information.logicBlock_visible();me._image_popup.logicBlock_visible();me._popup_image.logicBlock_visible();me._video_popup_file.logicBlock_visible();me._popup_video_file.logicBlock_visible();me._video_popup_controls_file.logicBlock_visible();me._video_popup_url.logicBlock_visible();me._popup_video_url.logicBlock_visible();me._video_popup_controls_url.logicBlock_visible();me._video_popup_vimeo.logicBlock_visible();me._popup_video_vimeo.logicBlock_visible();me._video_popup_youtube.logicBlock_visible();me._popup_video_youtube.logicBlock_visible();me._timer_1.logicBlock_visible();me._image_20.logicBlock_alpha();me._screentint.logicBlock_alpha();me._close1.logicBlock_visible();me._close.logicBlock_visible();me.__360image_gyro.logicBlock_visible();me.__360image.logicBlock_position();me.__360image.logicBlock_scaling();me._phone2.logicBlock_scaling();me._phone3.logicBlock_scaling();me._logobg.logicBlock_backgroundcolor();me._logonoborder.logicBlock_visible();me._logowhitrborder.logicBlock_visible();me._white2.logicBlock_visible();me._main_video_1.logicBlock_visible();me._popup_video_youtube11.logicBlock_visible();me._video_1a_2.logicBlock_visible();me._popup_video_youtube2.logicBlock_visible();me._video_3a_3.logicBlock_visible();me._popup_video_youtube3.logicBlock_visible();me._video_2a_4.logicBlock_visible();me._popup_video_youtube4.logicBlock_visible();me._video_4a_5.logicBlock_visible();me._popup_video_youtube5.logicBlock_visible();me._video_1b_6.logicBlock_visible();me._popup_video_youtube6.logicBlock_visible();me._video_2b_7.logicBlock_visible();me._popup_video_youtube7.logicBlock_visible();me._video_2c_8.logicBlock_visible();me._popup_video_youtube8.logicBlock_visible();me._video_3ap_9.logicBlock_visible();me._popup_video_youtube9.logicBlock_visible();me._video_3c_10.logicBlock_visible();me._popup_video_youtube10.logicBlock_visible();me._alt_video_11.logicBlock_visible();me._popup_video_youtube1.logicBlock_visible();me.__4a_5.logicBlock_visible();me._animation9.logicBlock_backgroundcolor();me.__3608.logicBlock_backgroundcolor();me.__3rd_floor7.logicBlock_backgroundcolor();me.__2nd_floor7.logicBlock_backgroundcolor();me.__1st_floor7.logicBlock_backgroundcolor();me._exterior7.logicBlock_backgroundcolor();me.__3c_10.logicBlock_visible();me._animation8.logicBlock_backgroundcolor();me.__3607.logicBlock_backgroundcolor();me.__3rd_floor6.logicBlock_backgroundcolor();me.__2nd_floor6.logicBlock_backgroundcolor();me.__1st_floor6.logicBlock_backgroundcolor();me._exterior6.logicBlock_backgroundcolor();me.__3ap_9.logicBlock_visible();me._animation7.logicBlock_backgroundcolor();me.__3606.logicBlock_backgroundcolor();me.__3rd_floor5.logicBlock_backgroundcolor();me.__2nd_floor5.logicBlock_backgroundcolor();me.__1st_floor5.logicBlock_backgroundcolor();me._exterior5.logicBlock_backgroundcolor();me.__3a_3.logicBlock_visible();me._animation6.logicBlock_backgroundcolor();me.__3605.logicBlock_backgroundcolor();me.__3rd_floor4.logicBlock_backgroundcolor();me.__2nd_floor4.logicBlock_backgroundcolor();me.__1st_floor4.logicBlock_backgroundcolor();me._exterior4.logicBlock_backgroundcolor();me.__2c_8.logicBlock_visible();me._animation5.logicBlock_backgroundcolor();me.__3604.logicBlock_backgroundcolor();me.__3rd_floor3.logicBlock_backgroundcolor();me.__2nd_floor3.logicBlock_backgroundcolor();me.__1st_floor3.logicBlock_backgroundcolor();me._exterior3.logicBlock_backgroundcolor();me.__2b_7.logicBlock_visible();me._animation4.logicBlock_backgroundcolor();me.__3603.logicBlock_backgroundcolor();me.__3rd_floor2.logicBlock_backgroundcolor();me.__2nd_floor2.logicBlock_backgroundcolor();me.__1st_floor2.logicBlock_backgroundcolor();me._exterior2.logicBlock_backgroundcolor();me.__2a_4.logicBlock_visible();me._animation3.logicBlock_backgroundcolor();me.__3602.logicBlock_backgroundcolor();me.__3rd_floor1.logicBlock_backgroundcolor();me.__2nd_floor1.logicBlock_backgroundcolor();me.__1st_floor1.logicBlock_backgroundcolor();me._exterior1.logicBlock_backgroundcolor();me.__1b_6.logicBlock_visible();me._animation2.logicBlock_backgroundcolor();me.__3601.logicBlock_backgroundcolor();me.__3rd_floor0.logicBlock_backgroundcolor();me.__2nd_floor0.logicBlock_backgroundcolor();me.__1st_floor0.logicBlock_backgroundcolor();me._exterior0.logicBlock_backgroundcolor();me.__1a_2.logicBlock_visible();me._animation1.logicBlock_backgroundcolor();me.__3600.logicBlock_backgroundcolor();me.__3rd_floor.logicBlock_backgroundcolor();me.__2nd_floor.logicBlock_backgroundcolor();me.__1st_floor.logicBlock_backgroundcolor();me._exterior.logicBlock_backgroundcolor();me._animation0.logicBlock_visible();me._animation0.logicBlock_backgroundcolor();me._numbering0.logicBlock_visible();me._numbering0.logicBlock_backgroundcolor();me._types0.logicBlock_visible();me._types0.logicBlock_backgroundcolor();me._animation.logicBlock_visible();me._animation.logicBlock_backgroundcolor();me.__360.logicBlock_visible();me.__360.logicBlock_backgroundcolor();me._numbering.logicBlock_visible();me._numbering.logicBlock_backgroundcolor();me._types.logicBlock_visible();me._types.logicBlock_backgroundcolor();me._documents.logicBlock_visible();me._contact0.logicBlock_visible();me._location.logicBlock_visible();me._l_tour.logicBlock_visible();me._contact_new.logicBlock_visible();me._location_tour.logicBlock_backgroundcolor();me._mobdocument.logicBlock_visible();me._document.logicBlock_visible();me._r14.logicBlock_backgroundcolor();me._r13_m.logicBlock_backgroundcolor();me._r13.logicBlock_backgroundcolor();me._r12.logicBlock_backgroundcolor();me._r11.logicBlock_backgroundcolor();me._r10.logicBlock_backgroundcolor();me._r9.logicBlock_backgroundcolor();me._r8.logicBlock_backgroundcolor();me._r7.logicBlock_backgroundcolor();me._r6.logicBlock_backgroundcolor();me._r5.logicBlock_backgroundcolor();me._r4.logicBlock_backgroundcolor();me._r3.logicBlock_backgroundcolor();me._r2.logicBlock_backgroundcolor();me._r1.logicBlock_backgroundcolor();me._loading_multires.logicBlock_visible();me._loading.logicBlock_visible();me._loadingtext.logicBlock_visible();me._entry_screen.logicBlock_alpha();me._all.logicBlock_alpha();me._key_pad.logicBlock_alpha();me._key_10.logicBlock_backgroundcolor();me._key_10.logicBlock_bordercolor();me._key_10.logicBlock_textcolor();me._key_.logicBlock_backgroundcolor();me._key_.logicBlock_bordercolor();me._key_.logicBlock_textcolor();me._key_0.logicBlock_backgroundcolor();me._key_0.logicBlock_bordercolor();me._key_0.logicBlock_textcolor();me._key_9.logicBlock_backgroundcolor();me._key_9.logicBlock_bordercolor();me._key_9.logicBlock_textcolor();me._key_8.logicBlock_backgroundcolor();me._key_8.logicBlock_bordercolor();me._key_8.logicBlock_textcolor();me._key_7.logicBlock_backgroundcolor();me._key_7.logicBlock_bordercolor();me._key_7.logicBlock_textcolor();me._key_6.logicBlock_backgroundcolor();me._key_6.logicBlock_bordercolor();me._key_6.logicBlock_textcolor();me._key_5.logicBlock_backgroundcolor();me._key_5.logicBlock_bordercolor();me._key_5.logicBlock_textcolor();me._key_4.logicBlock_backgroundcolor();me._key_4.logicBlock_bordercolor();me._key_4.logicBlock_textcolor();me._key_3.logicBlock_backgroundcolor();me._key_3.logicBlock_bordercolor();me._key_3.logicBlock_textcolor();me._key_2.logicBlock_backgroundcolor();me._key_2.logicBlock_bordercolor();me._key_2.logicBlock_textcolor();me._key_1.logicBlock_backgroundcolor();me._key_1.logicBlock_bordercolor();me._key_1.logicBlock_textcolor(); });
+	player.addListener('changenode', function(args) { me._show_controller_button.logicBlock_position();me._controller.logicBlock_position();me._controller.logicBlock_visible();me._controller.logicBlock_alpha();me._controller_slider.logicBlock_position();me._controller_slider.logicBlock_visible();me._controller_slider.logicBlock_alpha();me._enter_vr.logicBlock_position();me._fullscreen_buttons.logicBlock_position();me._fullscreen_buttons.logicBlock_visible();me._gyro.logicBlock_position();me._gyro.logicBlock_visible();me._gyro_on.logicBlock_alpha();me._gyro_off.logicBlock_alpha();me._tt_gyro.logicBlock_text();me._projection_buttons.logicBlock_position();me._projection_buttons.logicBlock_visible();me._info0.logicBlock_position();me._info0.logicBlock_visible();me._autorotate_buttons.logicBlock_position();me._autorotate_buttons.logicBlock_visible();me._autorotate_start.logicBlock_alpha();me._autorotate_stop.logicBlock_alpha();me._tt_rotate.logicBlock_text();me._zoomout.logicBlock_visible();me._zoomin.logicBlock_visible();me._thumbnail.logicBlock_position();me._thumbnail.logicBlock_visible();me._tt_thumbnail_open.logicBlock_text();me._breakdown.logicBlock_visible();me._thumbnail_menu.logicBlock_position();me._thumbnail_menu.logicBlock_visible();me._thumbnail_menu.logicBlock_alpha();me._thumbnail_menu_mobile.logicBlock_position();me._thumbnail_menu_mobile.logicBlock_visible();me._thumbnail_menu_mobile.logicBlock_alpha();me._web_page.logicBlock_visible();me._userdata.logicBlock_visible();me._information.logicBlock_visible();me._image_popup.logicBlock_visible();me._popup_image.logicBlock_visible();me._video_popup_file.logicBlock_visible();me._popup_video_file.logicBlock_visible();me._video_popup_controls_file.logicBlock_visible();me._video_popup_url.logicBlock_visible();me._popup_video_url.logicBlock_visible();me._video_popup_controls_url.logicBlock_visible();me._video_popup_vimeo.logicBlock_visible();me._popup_video_vimeo.logicBlock_visible();me._video_popup_youtube.logicBlock_visible();me._popup_video_youtube.logicBlock_visible();me._timer_1.logicBlock_visible();me._image_20.logicBlock_alpha();me._screentint.logicBlock_alpha();me._close1.logicBlock_visible();me._close.logicBlock_visible();me.__360image_gyro.logicBlock_visible();me.__360image.logicBlock_position();me.__360image.logicBlock_scaling();me._phone2.logicBlock_scaling();me._phone3.logicBlock_scaling();me._logobg.logicBlock_backgroundcolor();me._logonoborder.logicBlock_visible();me._logowhitrborder.logicBlock_visible();me._white2.logicBlock_visible();me._main_video_1.logicBlock_visible();me._popup_video_youtube11.logicBlock_visible();me._video_1a_2.logicBlock_visible();me._popup_video_youtube2.logicBlock_visible();me._video_3a_3.logicBlock_visible();me._popup_video_youtube3.logicBlock_visible();me._video_2a_4.logicBlock_visible();me._popup_video_youtube4.logicBlock_visible();me._video_4a_5.logicBlock_visible();me._popup_video_youtube5.logicBlock_visible();me._video_1b_6.logicBlock_visible();me._popup_video_youtube6.logicBlock_visible();me._video_2b_7.logicBlock_visible();me._popup_video_youtube7.logicBlock_visible();me._video_2c_8.logicBlock_visible();me._popup_video_youtube8.logicBlock_visible();me._video_3ap_9.logicBlock_visible();me._popup_video_youtube9.logicBlock_visible();me._video_3c_10.logicBlock_visible();me._popup_video_youtube10.logicBlock_visible();me._alt_video_11.logicBlock_visible();me._popup_video_youtube1.logicBlock_visible();me.__4a_5.logicBlock_visible();me._animation9.logicBlock_backgroundcolor();me.__3608.logicBlock_backgroundcolor();me.__3rd_floor7.logicBlock_backgroundcolor();me.__2nd_floor7.logicBlock_backgroundcolor();me.__1st_floor7.logicBlock_backgroundcolor();me._exterior7.logicBlock_backgroundcolor();me.__3c_10.logicBlock_visible();me._animation8.logicBlock_backgroundcolor();me.__3607.logicBlock_backgroundcolor();me.__3rd_floor6.logicBlock_backgroundcolor();me.__2nd_floor6.logicBlock_backgroundcolor();me.__1st_floor6.logicBlock_backgroundcolor();me._exterior6.logicBlock_backgroundcolor();me.__3ap_9.logicBlock_visible();me._animation7.logicBlock_backgroundcolor();me.__3606.logicBlock_backgroundcolor();me.__3rd_floor5.logicBlock_backgroundcolor();me.__2nd_floor5.logicBlock_backgroundcolor();me.__1st_floor5.logicBlock_backgroundcolor();me._exterior5.logicBlock_backgroundcolor();me.__3a_3.logicBlock_visible();me._animation6.logicBlock_backgroundcolor();me.__3605.logicBlock_backgroundcolor();me.__3rd_floor4.logicBlock_backgroundcolor();me.__2nd_floor4.logicBlock_backgroundcolor();me.__1st_floor4.logicBlock_backgroundcolor();me._exterior4.logicBlock_backgroundcolor();me.__2c_8.logicBlock_visible();me._animation5.logicBlock_backgroundcolor();me.__3604.logicBlock_backgroundcolor();me.__3rd_floor3.logicBlock_backgroundcolor();me.__2nd_floor3.logicBlock_backgroundcolor();me.__1st_floor3.logicBlock_backgroundcolor();me._exterior3.logicBlock_backgroundcolor();me.__2b_7.logicBlock_visible();me._animation4.logicBlock_backgroundcolor();me.__3603.logicBlock_backgroundcolor();me.__3rd_floor2.logicBlock_backgroundcolor();me.__2nd_floor2.logicBlock_backgroundcolor();me.__1st_floor2.logicBlock_backgroundcolor();me._exterior2.logicBlock_backgroundcolor();me.__2a_4.logicBlock_visible();me._animation3.logicBlock_backgroundcolor();me.__3602.logicBlock_backgroundcolor();me.__3rd_floor1.logicBlock_backgroundcolor();me.__2nd_floor1.logicBlock_backgroundcolor();me.__1st_floor1.logicBlock_backgroundcolor();me._exterior1.logicBlock_backgroundcolor();me.__1b_6.logicBlock_visible();me._animation2.logicBlock_backgroundcolor();me.__3601.logicBlock_backgroundcolor();me.__3rd_floor0.logicBlock_backgroundcolor();me.__2nd_floor0.logicBlock_backgroundcolor();me.__1st_floor0.logicBlock_backgroundcolor();me._exterior0.logicBlock_backgroundcolor();me.__1a_2.logicBlock_visible();me._animation1.logicBlock_backgroundcolor();me.__3600.logicBlock_backgroundcolor();me.__3rd_floor.logicBlock_backgroundcolor();me.__2nd_floor.logicBlock_backgroundcolor();me.__1st_floor.logicBlock_backgroundcolor();me._exterior.logicBlock_backgroundcolor();me._animation0.logicBlock_visible();me._animation0.logicBlock_backgroundcolor();me._numbering0.logicBlock_visible();me._numbering0.logicBlock_backgroundcolor();me._types0.logicBlock_visible();me._types0.logicBlock_backgroundcolor();me._animation.logicBlock_visible();me._animation.logicBlock_backgroundcolor();me.__360.logicBlock_visible();me.__360.logicBlock_backgroundcolor();me._numbering.logicBlock_visible();me._numbering.logicBlock_backgroundcolor();me._types.logicBlock_visible();me._types.logicBlock_backgroundcolor();me._documents.logicBlock_visible();me._contact0.logicBlock_visible();me._location.logicBlock_visible();me._l_tour.logicBlock_visible();me._location_tour.logicBlock_backgroundcolor();me._contact_new.logicBlock_visible();me._mobdocument.logicBlock_visible();me._document.logicBlock_visible();me._r14.logicBlock_backgroundcolor();me._r13_m.logicBlock_backgroundcolor();me._r13.logicBlock_backgroundcolor();me._r12.logicBlock_backgroundcolor();me._r11.logicBlock_backgroundcolor();me._r10.logicBlock_backgroundcolor();me._r9.logicBlock_backgroundcolor();me._r8.logicBlock_backgroundcolor();me._r7.logicBlock_backgroundcolor();me._r6.logicBlock_backgroundcolor();me._r5.logicBlock_backgroundcolor();me._r4.logicBlock_backgroundcolor();me._r3.logicBlock_backgroundcolor();me._r2.logicBlock_backgroundcolor();me._r1.logicBlock_backgroundcolor();me._loading_multires.logicBlock_visible();me._loading.logicBlock_visible();me._loadingtext.logicBlock_visible();me._entry_screen.logicBlock_alpha();me._all.logicBlock_alpha();me._key_pad.logicBlock_alpha();me._key_10.logicBlock_backgroundcolor();me._key_10.logicBlock_bordercolor();me._key_10.logicBlock_textcolor();me._key_.logicBlock_backgroundcolor();me._key_.logicBlock_bordercolor();me._key_.logicBlock_textcolor();me._key_0.logicBlock_backgroundcolor();me._key_0.logicBlock_bordercolor();me._key_0.logicBlock_textcolor();me._key_9.logicBlock_backgroundcolor();me._key_9.logicBlock_bordercolor();me._key_9.logicBlock_textcolor();me._key_8.logicBlock_backgroundcolor();me._key_8.logicBlock_bordercolor();me._key_8.logicBlock_textcolor();me._key_7.logicBlock_backgroundcolor();me._key_7.logicBlock_bordercolor();me._key_7.logicBlock_textcolor();me._key_6.logicBlock_backgroundcolor();me._key_6.logicBlock_bordercolor();me._key_6.logicBlock_textcolor();me._key_5.logicBlock_backgroundcolor();me._key_5.logicBlock_bordercolor();me._key_5.logicBlock_textcolor();me._key_4.logicBlock_backgroundcolor();me._key_4.logicBlock_bordercolor();me._key_4.logicBlock_textcolor();me._key_3.logicBlock_backgroundcolor();me._key_3.logicBlock_bordercolor();me._key_3.logicBlock_textcolor();me._key_2.logicBlock_backgroundcolor();me._key_2.logicBlock_bordercolor();me._key_2.logicBlock_textcolor();me._key_1.logicBlock_backgroundcolor();me._key_1.logicBlock_bordercolor();me._key_1.logicBlock_textcolor(); });
 	player.addListener('configloaded', function(args) { me._tt_show_controller.logicBlock_position();me._tt_enter_vr.logicBlock_position();me._fullscreen_buttons.logicBlock_visible();me._tt_fullscreen.logicBlock_position();me._gyro.logicBlock_visible();me._tt_gyro.logicBlock_position();me._tt_projection.logicBlock_position();me._tt_userdata.logicBlock_position();me._tt_rotate.logicBlock_position();me._tt_zoomout.logicBlock_position();me._tt_zoomin.logicBlock_position();me._thumbnail.logicBlock_visible();me._tt_thumbnail_open.logicBlock_position();me._thumbnail_menu.logicBlock_position();me._thumbnail_menu.logicBlock_visible();me._thumbnail_menu_mobile.logicBlock_visible();me.__360image_gyro.logicBlock_visible();me._loadingtext.logicBlock_visible(); });
 	player.addListener('projectionchanged', function(args) { me._tt_projection.logicBlock_text(); });
 	player.addListener('autorotatechanged', function(args) { me._autorotate_start.logicBlock_alpha();me._autorotate_stop.logicBlock_alpha();me._tt_rotate.logicBlock_text(); });
