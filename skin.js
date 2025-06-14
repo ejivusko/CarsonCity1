@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.11/18043
 // Filename: Carson10a.ggsk
-// Generated 2025-06-14T14:46:24
+// Generated 2025-06-14T15:05:16
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -10734,7 +10734,7 @@ function pano2vrSkin(player,base) {
 		els=me._config_button__img=document.createElement('img');
 		els.className='ggskin ggskin_config_button';
 		hs='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QHTaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1LjYuMCI+CiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMj'+
-			'UtMDYtMTRUMTQ6NDY6MjErMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI1LTA2LTE0VDE0OjQ2OjIxKzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
+			'UtMDYtMTRUMTU6MDU6MTQrMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDI1LTA2LTE0VDE1OjA1OjE0KzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
 			'CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4'+
 			'iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASigUetABj3oo7UlACiikooAXtSUUUAf/2Q==';
 		els.setAttribute('src',hs);
@@ -23266,9 +23266,9 @@ function pano2vrSkin(player,base) {
 		}
 		el=me._popup_documents_mobile=document.createElement('div');
 		el.ggId="popup_documents_mobile";
-		el.ggDx=0;
+		el.ggDx=10;
 		el.ggDy=55;
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1.4,sy:1.4 };
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
@@ -23276,13 +23276,12 @@ function pano2vrSkin(player,base) {
 		hs+='height : 700px;';
 		hs+='left : -10000px;';
 		hs+='position : absolute;';
-		hs+='top : calc(1vh * 30);';
+		hs+='top : calc(1vh * 20);';
 		hs+='visibility : hidden;';
-		hs+='width : 1000px;';
+		hs+='width : calc(100vw  -  80px);';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
-		el.style[domTransform]=parameterToTransform(el.ggParameter);
 		me._popup_documents_mobile.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
 				return this.parentNode.ggIsActive();
@@ -23329,7 +23328,7 @@ function pano2vrSkin(player,base) {
 			if (this.parentNode) {
 				var pw=this.parentNode.clientWidth;
 				var w=this.offsetWidth;
-					this.style.left=(this.ggDx + pw/2 - w/2) + 'px';
+					this.style.left=((this.ggDx * pw)/100.0 + pw/2 - w/2) + 'px';
 			}
 		}
 		el=me._iframe_documents_mobile=document.createElement('div');
@@ -23984,11 +23983,11 @@ function pano2vrSkin(player,base) {
 			}
 			me._iframe_documents_mobile.style.opacity='1';
 			me._iframe_documents_mobile.style.visibility=me._iframe_documents_mobile.ggVisible?'inherit':'hidden';
-			me._iframe_documents_mobile.ggText="<iframe src=\"Documents_mobile.html\" width=\"100%\" height=\"100%\" style=\"pointer-events:auto;\" frameborder=\"0\"><\/iframe>";
+			me._iframe_documents_mobile.ggText="<iframe src=\"Documents_mobile.html\" width=\"100%\" height=\"700\" style=\"pointer-events:auto;\" frameborder=\"0\"><\/iframe>";
 			me._iframe_documents_mobile.ggTextDiv.innerHTML=me._iframe_documents_mobile.ggText;
 			if (me._iframe_documents_mobile.ggUpdateText) {
 				me._iframe_documents_mobile.ggUpdateText=function() {
-					var hs="<iframe src=\"Documents_mobile.html\" width=\"100%\" height=\"100%\" style=\"pointer-events:auto;\" frameborder=\"0\"><\/iframe>";
+					var hs="<iframe src=\"Documents_mobile.html\" width=\"100%\" height=\"700\" style=\"pointer-events:auto;\" frameborder=\"0\"><\/iframe>";
 					if (hs!=this.ggText) {
 						this.ggText=hs;
 						this.ggTextDiv.innerHTML=hs;
