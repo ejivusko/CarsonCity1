@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <style>
+    html, body {
+      background-color: transparent;
+      color: white;
+      font-family: sans-serif;
+      padding: 20px;
+      margin: 0;
+    }
+    .row {
+      display: flex;
+      gap: 10px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    .row input {
+      width: 100%;
+    }
+    input, textarea {
+      padding: 10px;
+      font-size: 14px;
+      font-family: inherit;
+      background-color: #222;
+      border: 1px solid #444;
+      color: white;
+      border-radius: 4px;
+      margin-top: 10px;
+      box-sizing: border-box;
+    }
+    textarea {
+      width: 100%;
+      height: 120px;
+      resize: vertical;
+    }
+    input::placeholder,
+    textarea::placeholder {
+      color: #bbb;
+      font-family: inherit;
+    }
+    button {
+      margin-top: 12px;
+      padding: 8px 16px;
+      background-color: #333;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #555;
+    }
+    #thankYou {
+      display: none;
+      margin-top: 20px;
+      color: #F0F0F0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <form id="contactForm">
+    <div class="row">
+      <input type="email" name="email" required placeholder="Your email">
+      <input type="tel" name="phone" placeholder="Your phone (optional)">
+    </div>
+    <textarea name="message" required placeholder="Write your message here..."></textarea>
+    <button type="submit">Send</button>
+  </form>
+
+  <div id="thankYou">
+    Thank you for reaching out — we'll reply soon.
+  </div>
+
+  <script>
+  const form = document.getElementById('contactForm');
+  const thankYou = document.getElementById('thankYou');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+    const params = new URLSearchParams();
+
+    for (const [key, value] of formData.entries()) {
+      params.append(key, value);
+    }
+
+    fetch('https://script.google.com/macros/s/AKfycby8eIf0389gs540NYt14edlOReVq9-Y9spup9sJDQL0cVbYfv66trqB3u5VcNDtuHwP/exec', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      body: params.toString()
+    }).then(response => {
+      if (response.ok) {
+        form.style.display = 'none';
+        thankYou.style.display = 'block';
+      } else {
+        alert('Something went wrong. Please try again.');
+      }
+    }).catch(error => {
+      alert('Error: ' + error.message);
+    });
+  });
+
+  window.addEventListener('message', (event) => {
+    if (event.data === 'resetContactForm') {
+      form.reset();
+      form.style.display = 'block';
+      thankYou.style.display = 'none';
+    }
+  });
+</script>
+</body>
+</html>
