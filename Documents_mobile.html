@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Documents (Mobile)</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: transparent;
+      margin: 0;
+      padding: 16px;
+    }
+
+    .field {
+      background: rgba(40, 40, 40, 0.45);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      padding: 10px 12px;
+      margin-bottom: 12px;
+      font-size: 0.95em;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.3s ease, color 0.3s ease;
+    }
+
+    .field:hover {
+      background: rgba(60, 60, 60, 0.45);
+    }
+
+    .field.downloaded {
+      color: #aaa;
+    }
+
+    .icon {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+  <a class="field" href="menu/file1.pdf" download>Development Agreement <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Final Map Phase 1 <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Final Map Phase 2 <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Final Map Phase 3 <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Utility Rates / Water Connection Charges <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+
+  <a class="field" href="menu/file1.pdf" download>Notice of Decision dated 10.9.2012 <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Amended Development Agreement <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Transporation Development Agreement <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>2nd Amendment to Development Agreement <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+  <a class="field" href="menu/file1.pdf" download>Waterline Reimbursement Agreement <img class="icon" src="menu/pdf_icon.png" alt="PDF Icon"></a>
+
+  <script>
+    document.querySelectorAll('.field').forEach(el => {
+      el.addEventListener('click', function () {
+        this.classList.add('downloaded');
+      });
+    });
+  </script>
+</body>
+</html>
